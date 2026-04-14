@@ -1,0 +1,10 @@
+fastapi[all]
+uvicorn[standard]
+sqlalchemy>=2.0
+alembic
+pytest==8.3.4
+pytest-asyncio==0.24.0
+httpx
+Faker
+python-dotenv
+email-validator
